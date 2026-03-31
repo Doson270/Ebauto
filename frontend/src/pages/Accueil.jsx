@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { Phone, MapPin, Wrench, Zap, Cpu, CalendarDays, Star } from 'lucide-react';
 import { Helmet } from 'react-helmet-async';
-import imgAccueil from '../img/image.png'
+import imgAccueil from '../img/image.webp'
 
 const Accueil = () => {
   return (

@@ -29,7 +29,7 @@ const Accueil = () => {
       "latitude": 44.9105,
       "longitude": -0.6369
     },
-    "telephone": "+33123456789",
+    "telephone": "+33744206592",
     "priceRange": "$$",
     "openingHoursSpecification": [
       {
@@ -67,7 +67,7 @@ const Accueil = () => {
             <a href="/devis" className="bg-orange-500 text-white px-10 py-4 rounded-xl text-lg font-bold hover:bg-orange-600 transition shadow-lg w-full sm:w-auto">
               Obtenir mon Devis Gratuit
             </a>
-            <a href="tel:+33123456789" className="flex items-center gap-3 text-blue-100 font-semibold text-lg hover:text-white transition group">
+            <a href="tel:+33744206592" className="flex items-center gap-3 text-blue-100 font-semibold text-lg hover:text-white transition group">
               <span className="p-3 bg-blue-800/60 rounded-full group-hover:scale-105 transition"><Phone className="w-6 h-6 text-white" /></span>
               Appeler le Garage
             </a>

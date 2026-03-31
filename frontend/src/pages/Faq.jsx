@@ -90,9 +90,9 @@ const Faq = () => {
             <Link to="/devis" className="bg-orange-500 text-white px-8 py-4 rounded-xl font-bold hover:bg-orange-600 transition shadow-lg">
               Demander un Devis
             </Link>
-            <a href="tel:+33123456789" className="bg-white text-blue-950 px-8 py-4 rounded-xl font-bold hover:bg-gray-100 transition flex items-center justify-center gap-2">
+            <a href="tel:+33744206592" className="bg-white text-blue-950 px-8 py-4 rounded-xl font-bold hover:bg-gray-100 transition flex items-center justify-center gap-2">
               <Phone size={18} />
-              01 23 45 67 89
+              07 44 20 65 92
             </a>
           </div>
         </div>

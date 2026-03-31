@@ -64,7 +64,7 @@ const Accueil = () => {
             Du diagnostic valise complexe à la réparation de faisceaux électriques, nous assurons la fiabilité de votre voiture, toutes marques. Devis transparent avant toute intervention.
           </p>
           <div className="mt-12 flex flex-col sm:flex-row gap-4 items-center">
-            <a href="/devis" className="bg-orange-500 text-white px-10 py-4 rounded-xl text-lg font-bold hover:bg-orange-600 transition shadow-lg w-full sm:w-auto">
+            <a href="/Devis" className="bg-orange-500 text-white px-10 py-4 rounded-xl text-lg font-bold hover:bg-orange-600 transition shadow-lg w-full sm:w-auto">
               Obtenir mon Devis Gratuit
             </a>
             <a href="tel:+33744206592" className="flex items-center gap-3 text-blue-100 font-semibold text-lg hover:text-white transition group">

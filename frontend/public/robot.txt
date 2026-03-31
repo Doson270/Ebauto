@@ -1,0 +1,19 @@
+# Fichier robots.txt pour EB Automobiles - Blanquefort
+# https://www.ebautomobiles.fr
+
+User-agent: *
+Allow: /
+Allow: /avis
+Allow: /devis
+Allow: /faq
+
+# On bloque l'accès aux dossiers techniques si tu en as (optionnel)
+Disallow: /node_modules/
+Disallow: /build/
+Disallow: /dist/
+
+# Lien direct vers ton plan de site pour les robots Google, Bing, etc.
+Sitemap: https://www.ebautomobiles.fr/sitemap.xml
+
+# Message pour les robots (facultatif mais pro)
+# Bienvenue sur le site de EB Automobiles, expert diagnostic à Bordeaux.

@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { Phone, MapPin, Wrench, Zap, Cpu, CalendarDays, Star } from 'lucide-react';
 import { Helmet } from 'react-helmet-async';
+import imgAccueil from '../img/image.png'
 
 const Accueil = () => {
   return (
@@ -48,7 +49,7 @@ const Accueil = () => {
       <section className="bg-blue-950 text-white py-24 md:py-32 relative overflow-hidden">
         {/* Background Image - Optionnel mais recommandé */}
         <div className="absolute inset-0 opacity-15">
-            <a href="../img/acceuil" alt="Moteur de voiture moderne" className="w-full h-full object-cover" />
+            <img src={imgAccueil} alt="Moteur de voiture moderne" className="w-full h-full object-cover" />
         </div>
         
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 text-center flex flex-col items-center">

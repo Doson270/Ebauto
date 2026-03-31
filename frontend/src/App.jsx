@@ -1,5 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import ScrollToTop from './components/ScrollToTop';
 import Navbar from './components/Navbar'; // Import de ta nouvelle Navbar
 import Accueil from './pages/Accueil';
 import Avis from './pages/Avis';
@@ -11,6 +12,7 @@ function App() {
   return (
     <HelmetProvider>
       <Router>
+        <ScrollToTop />
         <div className="relative">
           <Navbar /> {/* Elle est ici, à l'extérieur des Routes ! */}
           

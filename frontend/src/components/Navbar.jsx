@@ -26,7 +26,7 @@ const Navbar = () => {
               <Wrench className="w-5 h-5 text-white" />
             </div>
             <span className="text-2xl font-black tracking-tighter text-blue-950">
-              SOS<span className="text-blue-600">EBAutomobiles</span>
+              SOS<span className="text-blue-600">ebautomobiles</span>
             </span>
           </Link>
 

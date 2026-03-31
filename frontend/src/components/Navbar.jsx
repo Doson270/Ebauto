@@ -26,7 +26,7 @@ const Navbar = () => {
               <Wrench className="w-5 h-5 text-white" />
             </div>
             <span className="text-2xl font-black tracking-tighter text-blue-950">
-              EB<span className="text-blue-600">Automobiles</span>
+              SOS<span className="text-blue-600">EBAutomobiles</span>
             </span>
           </Link>
 
@@ -88,7 +88,7 @@ const Navbar = () => {
             >
               Demander un Devis
             </Link>
-            <a href="tel:+33123456789" className="flex items-center justify-center gap-2 text-blue-700 font-bold py-2">
+            <a href="tel:+33744206592" className="flex items-center justify-center gap-2 text-blue-700 font-bold py-2">
               <Phone size={18} /> Appeler le garage
             </a>
           </div>

@@ -1,5 +1,5 @@
 # Fichier robots.txt pour EB Automobiles - Blanquefort
-# https://www.ebautomobiles.fr
+# https://https://ebauto-mu.vercel.app/
 
 User-agent: *
 Allow: /
@@ -13,7 +13,7 @@ Disallow: /build/
 Disallow: /dist/
 
 # Lien direct vers ton plan de site pour les robots Google, Bing, etc.
-Sitemap: https://www.ebautomobiles.fr/sitemap.xml
+Sitemap: https://https://ebauto-mu.vercel.app//sitemap.xml
 
 # Message pour les robots (facultatif mais pro)
 # Bienvenue sur le site de EB Automobiles, expert diagnostic à Bordeaux.

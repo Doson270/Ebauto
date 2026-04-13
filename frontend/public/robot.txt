@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ebauto-mu.vercel.app/sitemap.xml
+Sitemap: https://sosebautomobiles.fr/sitemap.xml

@@ -48,8 +48,8 @@ const Avis = () => {
     return (
         <>
 <Helmet>
-  <title>Avis Clients - Garage Expert [Ta Ville] | 4.9/5 sur Google</title>
-  <meta name="description" content="Découvrez les témoignages de nos clients à [Ta Ville]. Spécialiste pannes complexes et électronique automobile." />
+  <title>Avis Clients - Garage Expert Bordeaux | 4.9/5 sur Google</title>
+  <meta name="description" content="Découvrez les témoignages de nos clients à Bordeaux. Spécialiste pannes complexes et électronique automobile." />
 </Helmet>
 <div className="pt-24 bg-gray-50 min-h-screen">            {/* Header de la page */}
             <section className="bg-blue-950 py-20 text-white text-center px-4">
